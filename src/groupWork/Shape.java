@@ -1,7 +1,6 @@
 package groupWork;
 
-public class Shape {
-    public abstract class Shape{
+public abstract class Shape {
 
         private String type;
 
@@ -17,4 +16,3 @@ public class Shape {
             return "I am a " + type + ".";
         }
     }
-}
